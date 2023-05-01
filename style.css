@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    background-color: coral;
+}
+
+
+section {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    line-height: 200%;
+    
+}
+
+.titulo-topicos {
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+#hab-prof {
+    text-decoration: underline;
+    background-color: rgb(247, 168, 139);
+}
+
+#hab-pess {
+    text-decoration: underline;
+    background-color: rgb(248, 199, 181);
+}
+
+#contatos {
+    text-decoration: underline;
+    background-color:rgb(253, 225, 216);
+}
